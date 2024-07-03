@@ -1,0 +1,68 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "././portfolio/img/frontend.png",
+      "title": "Front-End",
+      "description": "React.js, Redux, JavaScript, Bootstrap, jQuery, HTML5, CSS3, MicroFrontend."
+    },
+    {
+      "id": "2",
+      "src": "././portfolio/img/server.png",
+      "title": "Back-End",
+      "description": "Node.js, Express.js, Django, JSON, Microservices, Elasticsearch, RESTful API."
+    },
+    {
+      "id": "3",
+      "src": "././portfolio/img/cloud.png",
+      "title": "DevOps & Cloud",
+      "description": "CI/CD pipelines, Jenkins, Docker, Kubernetes, Rancher, Splunk, AWS."
+    },
+    {
+      "id": "4",
+      "src": "././portfolio/img/database.png",
+      "title": "Databases",
+      "description": "MongoDB, PostgreSQL, OracleDB, MySQL, SQLite."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "././portfolio/img/placeholder-image.png",
+      "title": "Verizon",
+      "description": "Software Engineer",
+      "date": "Sept 2023 - Present",
+      "link": "https://www.verizon.com/"
+    },
+    {
+      "id": "2",
+      "src": "././portfolio/img/placeholder-image-1.png",
+      "title": "Atos Syntel",
+      "description": "Associate Engineer",
+      "date": "Aug 2018 - Aug 2021",
+      "link": "https://atos.net/en"
+    },
+    {
+      "id": "3",
+      "src": "././portfolio/img/placeholder-image-2.png",
+      "title": "DigiPix Technologies",
+      "description": "Software Developer Intern",
+      "date": "Jan 2018 - Apr 2018",
+      "link": "https://www.digipixtechnologies.com/"
+    }
+  ],
+  "education": [
+    {
+      "src": "././portfolio/img/avatar-image.png",
+      "college": "University of Oregon",
+      "degree": "M.S. Computer Science",
+      "date": "Sept 2021 - June 2023"
+    },
+    {
+      "src": "././portfolio/img/avatar-image-1.png",
+      "college": "Visvesvaraya Technological University",
+      "degree": "B.E. Information Science",
+      "date": "Aug 2014 - July 2018"
+    }
+  ]
+}
