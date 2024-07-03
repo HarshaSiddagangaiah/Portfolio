@@ -7,7 +7,7 @@ export default function ContactMe() {
         <div class="contact-info-upper-container">
           <div class="contact-info-container">
             <img
-              src="././portfolio/img/email.png"
+              src="./img/email.png"
               alt="Email icon"
               class="icon contact-icon email-icon"
             />
@@ -23,7 +23,7 @@ export default function ContactMe() {
           </div>
           <div class="contact-info-container">
             <img
-              src="././portfolio/img/linkedin.png"
+              src="./img/linkedin.png"
               alt="LinkedIn icon"
               class="icon contact-icon linkedin-icon"
             />

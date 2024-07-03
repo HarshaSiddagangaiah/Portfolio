@@ -42,7 +42,7 @@ export default function MyProjects() {
           <div class="details-container color-container">
             <div class="article-container">
               <img
-                src="././portfolio/img/project-1.png"
+                src="./img/project-1.png"
                 alt="Project 1"
                 class="project-img"
               />
@@ -68,7 +68,7 @@ export default function MyProjects() {
           <div class="details-container color-container">
             <div class="article-container">
               <img
-                src="././portfolio/img/project-2.png"
+                src="./img/project-2.png"
                 alt="Project 2"
                 class="project-img"
               />
@@ -94,7 +94,7 @@ export default function MyProjects() {
           <div class="details-container color-container">
             <div class="article-container">
               <img
-                src="././portfolio/img/project-3.png"
+                src="./img/project-3.png"
                 alt="Project 3"
                 class="project-img"
               />

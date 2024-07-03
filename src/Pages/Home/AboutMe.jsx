@@ -2,7 +2,7 @@ export default function AboutMe() {
   return (
     <section id="AboutMe" className="about--section">
       <div className="about--section--img">
-        <img src="././portfolio/img/about-me.png" alt="About Me" />
+        <img src="./img/about-me.png" alt="About Me" />
       </div>
       <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">
@@ -13,7 +13,7 @@ export default function AboutMe() {
               <div class="about-containers">
                 <div class="details-container">
                   <img
-                    src="././portfolio/img/experience.png"
+                    src="./img/experience.png"
                     alt="Experience icon"
                     class="icon"
                   />
@@ -25,7 +25,7 @@ export default function AboutMe() {
                 </div>
                 <div class="details-container">
                   <img
-                    src="././portfolio/img/education.png"
+                    src="./img/education.png"
                     alt="Education icon"
                     class="icon"
                   />
@@ -42,7 +42,7 @@ export default function AboutMe() {
                   className="btn btn-color-2"
                   onClick={() =>
                     window.open(
-                      "././portfolio/img/resume.pdf",
+                      "./img/resume.pdf",
                       "_blank",
                       "noopener,noreferrer"
                     )

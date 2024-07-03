@@ -33,7 +33,7 @@ export default function HeroSection() {
         </Link>
       </div>
       <div className="hero--section--img">
-        <img src="././portfolio/img/hero_img.png" alt="Hero Section" />
+        <img src="./img/hero_img.png" alt="Hero Section" />
       </div>
     </section>
   );
